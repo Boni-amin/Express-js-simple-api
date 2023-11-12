@@ -1,0 +1,57 @@
+☞ > Mongooges Practice Projects . Note : Here Project Covers.
+
+1. Make Fulder for project
+2. Project er vitor package.json install-- npm init --Y
+3. Express rest api All Package  install Here -- (Express, Body-perser, Helmett etc.)
+4. Project Structure Impotant File Make here.
+	* index.js
+	* app.js
+	* config.env
+	* Src- 
+		*Controllers-
+			1. LoginController.js 
+			2. ProfileController.js 
+			3. ToDoListController.js 
+		*Middleware-
+			1. AuthVerifyMiddleware.js 
+		*Models-
+			1. ProfileModel.js 
+			2. ToDoListModel.js
+		*Routes - 
+			1. Api.js
+5. app.js er vitor kaj korte hobe. 
+ 	* Basic Libuary Import 
+	* Security Middleware Lib Import
+	* Database Lib Import 
+	* Security Middleware Implement 
+	* Body Parser Implement 
+	* Request Rate Limit
+	* Apply the Security rate limiting middleware to all requests
+	* Mongo DB Database Connection 
+	* Routing Implement 
+	* Home page Route
+	* Undefined Route Implement  
+	* App Exports
+
+6. index.js er vitor kaj korte hobe.
+	* import app 
+	* Listen app on port 
+
+7. Models -
+8. Controllers- 
+9. Api.js er vitor kaj korte hobe.
+	* Express import
+	* Make router from express 
+10. Others 
+
+
+
+
+
+
+
+Class-link-git : https://github.com/rupomsoft/Express-Rest-API-Development/tree/main
+
+
+
+

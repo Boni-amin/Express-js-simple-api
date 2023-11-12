@@ -1,0 +1,67 @@
+🚗☞ Mongoose: Mongoosehocce javascript/Note js er akta libury. mongodb Data ke structure er vitor niye asa Mongoose er kaj.
+
+
+🚗☞ How to start Mongoose ?
+1. Install Mongoose.
+2. Create database connection.
+3. Create Your frist Mongoose model .
+4. Work with mongooge model.
+
+
+
+
+🚗☞ Data er vitor validation apply.
+1. type custing validation -- Calss: String 
+2. Required Validation -- Name:{ type:string, required:true }
+3. Unique Validation -- email: { type: string, unique:true }
+4. Min Max Validation -- Roll: { Type:numbar, min:6, max:10 }
+5, Custom Error Message Validation 
+6. Enumerated type Valudation.
+7. regex validation -- validator:{
+            validator: function (value) {
+                return /^(?:(?:\+|00)88|01)?\d{11}$/.test(value)
+            },
+            message: "Please Give a 11 Digit mobail numbar"
+        }
+
+
+
+
+
+🚗☞ What is Rest api ?
+1. Rest Api Shekhar jonno Postman download korte hobe. and postman er website a account korte hobe.
+
+
+🚗☞ What is Type of Authentication or Authraization ?
+1. Api key
+2. Bearer Token
+🚗☞ What about Json web token (JWT) -- Jwt holo akta libuary 
+1. Json ke Encode and decode korai holo JWT libuary er kaj.
+
+🚗☞ What we will learn Jwt 
+1. How to encode jaon and create token
+2. how to decode token and retrive json
+3. how to create auth middleware in exress project
+4. how to apply auth middleware in route .
+
+
+🚗☞ PRACTICE PROJECTICE: practice Coverage --
+1. Rest Api Introduction 
+2. Json Best Practice 
+3. Request response model 
+4. Rest Api Basic best practice
+5. Rest Api security pracice
+6. Express js Rest Api Fundamental
+7. MongoDB Code Fundamental
+8. Mongoose 
+9. Documention Postman
+10. JWT Auth
+
+
+
+
+
+
+
+https://github.com/rupomsoft/Express-Rest-API-Development/tree/main    
+
